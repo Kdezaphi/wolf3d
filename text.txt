@@ -1,0 +1,3 @@
+./texture/floor.xpm
+./texture/ceiling.xpm
+./texture/wall.xpm
